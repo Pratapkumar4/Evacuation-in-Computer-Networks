@@ -1,7 +1,7 @@
 # Evacuation in Computer Networks
 
 ## 📌 Overview
-This project demonstrates an **Evacuation System in Computer Networks** using Java. It simulates client-server communication, message forwarding and evacuation of delayed packets. The system supports **user registration, login and secure message transfer**.
+This project demonstrates an **Evacuation of Delayed Packets in Computer Networks** using Java. It simulates client-server communication, message forwarding and evacuation of delayed packets. The system supports **user registration, login and secure message transfer**.
 
 ---
 
@@ -17,3 +17,4 @@ This project demonstrates an **Evacuation System in Computer Networks** using Ja
   - Simple and interactive text-based UI.
 
 ---
+
